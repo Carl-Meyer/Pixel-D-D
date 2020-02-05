@@ -1,0 +1,8 @@
+{
+   "baseSpeed"     :0,
+   "spriteDesc"    :"spritesDesc/InquirerNPC.json",
+   "scriptFile"    :"scripts/npc/Inquirer",
+   "friendly"      :true,
+   "aiState"       :"Passive",
+   "fraction"      :"NEUTRAL"
+}
